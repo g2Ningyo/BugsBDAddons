@@ -1,1 +1,5 @@
-# BugsBDAddons
+# Bugs BetterDiscordAddons
+
+Themes
+
+Plugins
