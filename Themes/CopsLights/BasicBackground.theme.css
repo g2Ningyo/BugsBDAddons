@@ -3,13 +3,13 @@
  * @description CopsLights Theme for BetterDiscord Created By BugDaBoss
  * @author BugDaBoss
  * @version 1.0.0
- * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.theme.css
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/CopsLights/
+ * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Themes/CopsLights/CopsLights.theme.css
  */
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css);
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/CopsLights/CopsLights.css);
 
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
