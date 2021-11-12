@@ -9,7 +9,7 @@
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(#https://bugdaboss.github.io/BugsBDAddons/Themes/CopsLights/CopsLights.css);
+@import url(https://bugdaboss.github.io/BugsBDAddons/Themes/CopsLights/CopsLights.css);
 
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
