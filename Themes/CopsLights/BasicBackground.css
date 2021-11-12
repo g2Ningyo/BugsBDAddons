@@ -1,5 +1,5 @@
-@import url(https://bugdaboss.github.io/BugsBDAddons/blob/master/Misc-Files/SettingsIcons.css);
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css);
+@import url(https://bugdaboss.github.io/BugsBDAddons/Misc-Files/SettingsIcons.css);
+@import url(https://bugdaboss.github.io/BugsBDAddons/Misc-Files/UsrBgs.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 :root {
@@ -30,7 +30,7 @@
 	--textdarker: 					125,125,125;
 	--textdarkest: 					90,90,90;
 	
-	--background:					url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/_res/background.jpg);
+	--background:					url(https://i.ibb.co/GFfS4vC/background.png);
 	--backgroundposition:			center;
 	--backgroundsize:				cover;
 	--backgroundblur:				unset;
@@ -7059,7 +7059,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E >
 	position: relative !important;
 }
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E > div.app-2rEoOp > div.layers-3iHuyZ.layers-3q14ss > div.layer-3QrUeG.baseLayer-35bLyl + div.layer-3QrUeG > div.standardSidebarView-3F1I7i > div.sidebarRegion-VFTUkN > div.sidebarRegionScroller-3MXcoP.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 > nav.sidebar-CFHs9e > div.side-8zPYf6 > div.info-1VyQPT::after {
-	content: "BasicBackground by" !important;
+	content: "CopsLights by" !important;
 	font-size: 12px !important;
 	color: var(--text-muted) !important;
 	cursor: pointer !important;
@@ -7078,7 +7078,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E >
 	animation: unset !important;
 }
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E > div.app-2rEoOp > div.layers-3iHuyZ.layers-3q14ss > div.layer-3QrUeG.baseLayer-35bLyl + div.layer-3QrUeG > div.standardSidebarView-3F1I7i > div.sidebarRegion-VFTUkN > div.sidebarRegionScroller-3MXcoP.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 > nav.sidebar-CFHs9e > div.side-8zPYf6 > div.info-1VyQPT::before {
-	content: "DevilBro" !important;
+	content: "BugDaBoss" !important;
 	font-size: 12px !important;
 	color: rgb(var(--accentcolor)) !important;
 	display: inline !important;
